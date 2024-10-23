@@ -2,7 +2,7 @@ This script is a Telegram bot that translates text between multiple languages us
 The user can specify the source and target languages along with the text to be translated.
 For educational purposes only. Unauthorized or illegal use is strictly prohibite
 
-#Installation
+# Installation
 
 apt update && apt upgrade -y
 
@@ -20,5 +20,5 @@ cd g-trans
 
 python google-trans.py
 
-#Please enter your Telegram bot token api in the line 81
+# Please enter your Telegram bot token api in the line 81
 
