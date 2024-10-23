@@ -20,3 +20,5 @@ cd g-trans
 
 python google-trans.py
 
+#Please enter your Telegram bot token api in the line 81
+
