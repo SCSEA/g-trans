@@ -18,7 +18,9 @@ git clone https://github.com/SCSEA/g-trans.git
 
 cd g-trans
 
+pip install requirements.txt
+
 python google-trans.py
 
-# Please enter your Telegram bot token api in the line 81
+# Please enter your Telegram bot Token API in the Script.
 
