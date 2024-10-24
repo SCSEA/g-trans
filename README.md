@@ -22,5 +22,9 @@ pip install requirements.txt
 
 python google-trans.py
 
+# or 
+
+python3 google-trans.py
+
 # Please enter your Telegram bot Token API in the Script.
 
