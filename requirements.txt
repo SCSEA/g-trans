@@ -1,0 +1,6 @@
+random
+telebot
+requests
+json
+import webbrowser
+colorama
