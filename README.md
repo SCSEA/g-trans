@@ -20,6 +20,19 @@ cd g-trans
 
 pip install -r requirements.txt
 
+
+pip install pyTelegramBotAPI
+
+pip install requests
+
+pip install colorama
+
+pip3 install pyTelegramBotAPI
+
+pip3 install requests
+
+pip3 install colorama
+
 python google-trans.py
 
 # or 
