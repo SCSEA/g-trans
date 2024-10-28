@@ -29,10 +29,9 @@ def install_packages():
     try:
         # Install packages
         os.system(f"{sys.executable} -m pip install requests >/dev/null 2>&1")
-        os.system(f"{sys.executable} -m pip install telebot >/dev/null 2>&1")
+        os.system(f"{sys.executable} -m pip install pyTelegramBotAPI >/dev/null 2>&1")
         os.system(f"{sys.executable} -m pip install pystyle >/dev/null 2>&1")
         os.system(f"{sys.executable} -m pip install colorama >/dev/null 2>&1")
-        os.system(f"{sys.executable} -m pip install json >/dev/null 2>&1")
         os.system(f"{sys.executable} -m pip install webbrowser >/dev/null 2>&1")
         
     except Exception as e:
