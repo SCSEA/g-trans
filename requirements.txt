@@ -1,6 +1,4 @@
-random
-telebot
+pyTelegramBotAPI
 requests
-json
-import webbrowser
 colorama
+json
