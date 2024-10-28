@@ -18,7 +18,7 @@ git clone https://github.com/SCSEA/g-trans.git
 
 cd g-trans
 
-pip install requirements.txt
+pip install -r requirements.txt
 
 python google-trans.py
 
