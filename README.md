@@ -86,3 +86,7 @@ Follow these steps to set up the project:
 
 ### Note:
 Make sure to enter your Telegram Bot API Token in the script before running the program.
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=SCSEA&color=green)
+
