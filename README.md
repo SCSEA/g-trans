@@ -4,6 +4,8 @@ For educational purposes only. Unauthorized or illegal use is strictly prohibite
 
 # Installation
 
+```bash
+
 apt update && apt upgrade -y
 
 pkg update && pkg upgrade -y
